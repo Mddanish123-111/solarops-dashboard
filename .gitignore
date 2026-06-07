@@ -1,0 +1,8 @@
+#Terraform large files
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+*.exe
+
+#Docker
+*.tar
