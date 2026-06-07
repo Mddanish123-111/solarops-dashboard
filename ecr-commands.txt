@@ -1,0 +1,10 @@
+Stage 3: AWS ECR Commands Used
+
+ECR Repository: solarops-dashboard
+AWS Region: ap-south-1
+Account ID: 549116506252
+
+Image URI:
+549116506252.dkr.ecr.ap-south-1.amazonaws.com/solarops-dashboard:v1
+
+Status: Successfully pushed to AWS ECR
